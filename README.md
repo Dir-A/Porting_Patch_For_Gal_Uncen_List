@@ -1,4 +1,4 @@
-# Porting_Patch_For_Gal_Uncen
+# Porting_Patch_For_Gal_Uncen_List
 移植Gal的英文版无码CG至日文版
 
 # 2021.7.22 11:55 PM
