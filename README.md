@@ -1,4 +1,5 @@
 # Porting_Patch_For_Gal_Uncen_List
+This is My List That Porting Patch I Did.  
 Porting Patch For Gal Uncen.  
 Frome English Version to Japanese Version.  
 Perhaps , Support Chinese Version.  
